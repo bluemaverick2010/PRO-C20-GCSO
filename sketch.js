@@ -1,7 +1,7 @@
 function setup() {
   createCanvas(700,300);
   lane1=createSprite(350, 100, 700, 5);
-  lane1=createSprite(350, 200, 700, 5);
+  lane2=createSprite(350, 200, 700, 5);
   car1=createSprite(10, 50, 30, 10);
   car2=createSprite(10, 150, 30, 10);
   car3=createSprite(10, 250, 30, 10);
